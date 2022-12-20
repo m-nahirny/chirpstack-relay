@@ -1,0 +1,17 @@
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\LoRaReceiver.exe.config
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\LoRaReceiver.exe
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\LoRaReceiver.pdb
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\EntityFramework.dll
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\EntityFramework.SqlServer.dll
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\EntityFramework.xml
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\EntityFramework.SqlServer.xml
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.csproj.AssemblyReference.cache
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.ProjectInstaller.resources
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.LoRaReceiverService.resources
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.csproj.GenerateResource.cache
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.csproj.CoreCompileInputs.cache
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.csproj.CopyComplete
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.exe
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\obj\Release\LoRaReceiver.pdb
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\Newtonsoft.Json.dll
+D:\Caorda\TBG Seismic\PPR\LoRaReceiver\bin\Release\Newtonsoft.Json.xml

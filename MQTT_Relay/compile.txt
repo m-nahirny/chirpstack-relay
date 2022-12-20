@@ -1,0 +1,2 @@
+g++ lora_relay.cpp UDP.cpp -o lora_relay -lpaho-mqtt3a -lpaho-mqtt3c -lpaho-mqtt3as -lpaho-mqtt3cs -lpaho-mqttpp3
+

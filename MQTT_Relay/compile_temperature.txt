@@ -1,0 +1,2 @@
+g++ temperature_relay.cpp UDP.cpp CayenneLPP_Dec.cpp -o temperature_relay -lpaho-mqtt3a -lpaho-mqtt3c -lpaho-mqtt3as -lpaho-mqtt3cs -lpaho-mqttpp3
+

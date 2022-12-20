@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LoRaMessagesModelStoreContainer" CdmEntityContainer="LoRaMessagesEntities">
+    <EntitySetMapping Name="Messages">
+      <EntityTypeMapping TypeName="LoRaMessagesModel.Message">
+        <MappingFragment StoreEntitySet="Messages">
+          <ScalarProperty Name="BatteryVoltage" ColumnName="BatteryVoltage" />
+          <ScalarProperty Name="MessageContents" ColumnName="MessageContents" />
+          <ScalarProperty Name="SpreadingFactor" ColumnName="SpreadingFactor" />
+          <ScalarProperty Name="SNR" ColumnName="SNR" />
+          <ScalarProperty Name="RSSI" ColumnName="RSSI" />
+          <ScalarProperty Name="ReceivedTime" ColumnName="ReceivedTime" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
