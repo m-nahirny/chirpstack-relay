@@ -13,6 +13,7 @@ This is a C# Windows service that listens for a UDP message on a specified port 
 
 ## Libraries Used
 
+MQTT library is the Eclipse Paho MQTT C++ Client Library (https://github.com/eclipse/paho.mqtt.cpp)
 For JSON encoding and decoding I have used nlohmann/json (https://github.com/nlohmann/json)
 To decode Cayenne LPP I modified gizmocuz/CayenneLPP-Decoder (https://github.com/gizmocuz/CayenneLPP-Decoder). For my purposes I simplified this and changed the JSON handling to the nlohmann library.
 To decode Base64 I used taomykaira Base64.h (https://gist.github.com/tomykaira/f0fd86b6c73063283afe550bc5d77594)
